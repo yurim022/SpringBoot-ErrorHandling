@@ -6,7 +6,7 @@
 
 먼저 Spring의 인증/ 인가 부분의 내부 구조를 살펴보자. 
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/693a95a5-0ab5-4882-b135-203546137e90/Untitled.png)
+<img width="823" alt="스크린샷 2022-05-12 오후 3 25 26" src="https://user-images.githubusercontent.com/45115557/168235488-d61254bd-55a1-4895-a49e-42542262c7c6.png">
 
 FilterSecurityInterceptor에서 스프링시큐리티 내 예외를 감지한다. 
 
